@@ -2,6 +2,6 @@
 
 Code samples demonstrating how to use the Blender 2.82 Python API.
 
-All code I write here is free to be used however you want.
+All code I write here is free to be used however you want. Also checkout [Blender's Licenses](https://www.blender.org/about/license/).
 
 At this point, I'm still learning the API from scratch, so this repo will be very disorganised.

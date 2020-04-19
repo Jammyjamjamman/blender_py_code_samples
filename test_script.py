@@ -1,6 +1,7 @@
 import bpy
 import os
 
+
 # Create a material with a texture.
 bpy.ops.mesh.primitive_ico_sphere_add(radius=1, enter_editmode=False, location=(0, 0, 2))
 mymesh = bpy.context.active_object
