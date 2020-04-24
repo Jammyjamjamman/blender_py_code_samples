@@ -13,4 +13,6 @@ Blender's own python help: [https://docs.blender.org/api/current/info_quickstart
 
 Have a look at the code in [snippets](snippets/). Try copy+pasting into blender's text editor.
 
-Setting up a blender coding environment: [bpy_coding_env_docs/ENV_SETUP.md](bpy_coding_env_docs/ENV_SETUP.md).
+Setting up a blender coding environment: [Environment Setup](bpy_coding_recommendations/ENV_SETUP.md).
+
+Tips for learning the API: [Learning Blender's new API](bpy_coding_recommendations/LEARN_API.md)
