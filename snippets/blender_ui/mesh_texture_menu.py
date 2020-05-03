@@ -26,7 +26,6 @@ class HelloTexturePanel(bpy.types.Panel):
         layout = self.layout
 
         tex = ob.active_material.node_tree.nodes['Image Texture']
-        # This is not ideal because this layout does not change when the 
         layout.template_image(data=tex, property="image", image_user=tex.image_user)
 
 

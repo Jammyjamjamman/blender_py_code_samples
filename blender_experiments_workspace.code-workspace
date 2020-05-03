@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "extra_mesh_tools",
+			"path": "example_addons/extra_mesh_tools"
+		},
+		{
+			"name": "texture_mesh",
+			"path": "example_addons/texture_mesh"
+		}
+	]
+}

@@ -24,7 +24,7 @@ class HelloWorldPanel(ObjectButtonsPanel, bpy.types.Panel):
 
 class MySubPanel(ObjectButtonsPanel, bpy.types.Panel):
     """The subpanel."""
-    bl_label = "texture settings"
+    bl_label = "My Subpanel"
     bl_idname = "OBJECT_PT_mysubpanel"
     bl_parent_id = "OBJECT_PT_hello" # This is what defines the panel as a subpanel.
     bl_options = {'DEFAULT_CLOSED'}
